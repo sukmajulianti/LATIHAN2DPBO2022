@@ -12,4 +12,8 @@ Terdapat juga beberapa atribut yang mendukung class diantaranya :
 2) class Product : atribut -> price, idProduct
 3) class Hardware : atribut -> brand, model
 
-Pada file main, disetiap bahasa untuk keluarannya saya jadikan beberapa penurunan dari setiap classnya. Hasil program dapat dilihat pada gambar berikut ini (file screenshot) 
+Pada file main, disetiap bahasa untuk keluarannya saya jadikan beberapa penurunan dari setiap classnya. Hasil program 4 bahasa dapat dilihat pada gambar berikut ini : 
+![Latihan2 no 1 java](https://user-images.githubusercontent.com/99456332/154840905-c033ad64-04b3-451c-8b2c-30e88621efed.png)
+![Latihan2 no 2 c++](https://user-images.githubusercontent.com/99456332/154840950-66ef0d7c-ea83-499b-a693-97f516ba94d6.png)
+![Latihan2 no 2 php](https://user-images.githubusercontent.com/99456332/154840954-b214eb6c-e939-4a0d-a4a3-1c29a88a2192.png)
+![Latihan2 no 2 python](https://user-images.githubusercontent.com/99456332/154840959-f7b9b35d-ec27-4ecb-a97e-d9f330f8675b.png)
